@@ -1,0 +1,20 @@
+*   6eff70f Merge branch 'main' of https://github.com/Jacintocode/practicasgit
+|\  
+| * ca5c0cf agregando 4 opciones de lista
+* | 18b2290 agragando 5 opciones
+|/  
+*   43cc521 Merge branch 'javascript'
+|\  
+| * 971e119 cracion de archivo de javascript
+* |   ccdf10c Merge branch 'css'
+|\ \  
+| * | d83e154 cambios en h1
+| * | 8ff5bb1 creacion de archivo css y background
+| |/  
+* |   e3fad9d resolviendo conflicto merge
+|\ \  
+| * | 5d6318d cambios del index usando la rama html
+| |/  
+* / eab083f creaciond de archivo index.html
+|/  
+* 8e62a44 cambios importantes para leer
