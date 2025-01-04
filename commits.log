@@ -1,0 +1,87 @@
+commit e3a09c9fae5ab632c01b747bcf91cd7132f8fb09
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Fri Jan 3 18:12:51 2025 -0600
+
+    v1.0.0
+
+commit 9c73eb03f239fb83ff80da3cdb3436ea86694467
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Mon Dec 30 20:21:44 2024 -0600
+
+    respaldando log del repositorio
+
+commit 6eff70f5b0ca85a3b856e6aa8ad5788c984068ac
+Merge: 18b2290 ca5c0cf
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Mon Dec 30 19:47:10 2024 -0600
+
+    Merge branch 'main' of https://github.com/Jacintocode/practicasgit
+
+commit 18b2290216c79fcc35082cc11ea8d67fee69f9e2
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Mon Dec 30 19:26:53 2024 -0600
+
+    agragando 5 opciones
+
+commit ca5c0cfa67c9ceed6f4950e9d9b48a7def117ef1
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Mon Dec 30 19:26:53 2024 -0600
+
+    agregando 4 opciones de lista
+
+commit 43cc5212a732245a8d3f0120d38af5a0216c6fc9
+Merge: ccdf10c 971e119
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Sat Dec 28 20:37:36 2024 -0600
+
+    Merge branch 'javascript'
+
+commit ccdf10c755427cca0465ac8fbdd6f90f964960c6
+Merge: e3fad9d d83e154
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Sat Dec 28 20:34:38 2024 -0600
+
+    Merge branch 'css'
+
+commit e3fad9dcdc45bf6cd17b6fdc7634a5b117b4e43b
+Merge: eab083f 5d6318d
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Sat Dec 28 20:30:17 2024 -0600
+
+    resolviendo conflicto merge
+
+commit 971e1195cb22faa7b50f17192fe745713f263fed
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Sat Dec 28 19:43:37 2024 -0600
+
+    cracion de archivo de javascript
+
+commit d83e154135993516706153d5f1328d44a031ccf2
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Fri Dec 27 15:56:02 2024 -0600
+
+    cambios en h1
+
+commit 5d6318df1ec618dd5452299b7948918b35194296
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Fri Dec 27 15:52:31 2024 -0600
+
+    cambios del index usando la rama html
+
+commit 8ff5bb1e070431c74f743b87544835505a4524ef
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Fri Dec 27 15:43:34 2024 -0600
+
+    creacion de archivo css y background
+
+commit eab083f99280a387646825dd7cdf86988dff59b2
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Fri Dec 27 15:22:18 2024 -0600
+
+    creaciond de archivo index.html
+
+commit 8e62a442e69f19bc2cf18072c4405327da43a7be
+Author: Jacinto Coin <farlentb@gmail.com>
+Date:   Thu Dec 26 11:12:14 2024 -0600
+
+    cambios importantes para leer
